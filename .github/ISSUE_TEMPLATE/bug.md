@@ -10,6 +10,9 @@ Qué queda funcionando o qué se aprende. Problem padre: #
 
 ## Contexto y evidencia
 
+Introducido en: pendiente de diagnóstico
+<!-- El agente que diagnostica reemplaza el pendiente por repo#PR, por ejemplo mamasan-r4#123, y enlaza el commit causal como evidencia. Este es el PR que originó el bug, no el que lo repara. -->
+
 ## Alcance
 Incluye:
 Fuera de alcance:
